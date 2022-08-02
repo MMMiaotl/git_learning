@@ -7,3 +7,5 @@ git merge test
 dummy bug fixed
 
 adsfasdf
+
+stash test
