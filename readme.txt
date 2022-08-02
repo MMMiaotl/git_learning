@@ -4,3 +4,6 @@ Git is niu.
 Git has mutable index called stage
 create a new branch is quick and simple.
 git merge test
+dummy bug fixed
+
+adsfasdf
