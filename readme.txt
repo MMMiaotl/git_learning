@@ -3,4 +3,3 @@ Git is free software.
 
  
 stash test
-dummy bug fixed
